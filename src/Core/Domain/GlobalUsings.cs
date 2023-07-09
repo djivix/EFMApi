@@ -1,0 +1,1 @@
+﻿global using EFManager.API.Domain.Common.Contracts;

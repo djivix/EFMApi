@@ -1,0 +1,11 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 7 WebAPI",
+    "Version": "1.0.0",
+    "Description": "Fitness API for .NET 7 WebApi built with Multitenancy Support.",
+    "ContactName": "Ivica Vasiljevic",
+    "ContactEmail": "ivi.vasiljevic@gamil.com",
+    "ContactUrl": "ivi.vasiljevic@gmail.com",
+  }
+}

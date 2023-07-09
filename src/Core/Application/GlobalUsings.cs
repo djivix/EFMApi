@@ -1,0 +1,17 @@
+global using Ardalis.Specification;
+global using FluentValidation;
+global using EFManager.API.Application.Common.Events;
+global using EFManager.API.Application.Common.Exceptions;
+global using EFManager.API.Application.Common.FileStorage;
+global using EFManager.API.Application.Common.Interfaces;
+global using EFManager.API.Application.Common.Models;
+global using EFManager.API.Application.Common.Persistence;
+global using EFManager.API.Application.Common.Specification;
+global using EFManager.API.Application.Common.Validation;
+global using EFManager.API.Domain.Catalog;
+global using EFManager.API.Domain.Common;
+global using EFManager.API.Domain.Common.Contracts;
+global using EFManager.API.Shared.Notifications;
+global using MediatR;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;

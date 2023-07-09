@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "EFManager.API",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}

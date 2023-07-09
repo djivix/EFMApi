@@ -1,0 +1,7 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Data Source=10.0.0.122;Initial Catalog=EFManager.API;MultipleActiveResultSets=True;User ID=Sa;Password=Team02asus;encrypt=false;"
+    //"ConnectionString": "Data Source=LPT-VIE-IV\\SQLEXPRESS;Initial Catalog=EFManager.API;MultipleActiveResultSets=True;User ID=Sa;Password=Team02asus;encrypt=false;"
+  }
+}
